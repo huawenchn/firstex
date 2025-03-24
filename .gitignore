@@ -10,4 +10,5 @@
 *.toc
 *.eps
 checksum
-ls --exclude='*.synctex.gz' --exclude='*.pdf'
+ch14_shipmemt_2.pdf
+ls | grep -v '\.synctex\.gz$' | grep -v '\.pdf$'
