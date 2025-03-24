@@ -10,5 +10,4 @@
 *.toc
 *.eps
 checksum
-ch14_shipment_2.synctex.gz  utility.tex
-ch14_shipment_2.pdf 
+ls --exclude='*.synctex.gz' --exclude='*.pdf'
