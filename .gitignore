@@ -1,0 +1,12 @@
+*.nav 
+*.snm
+*.pdf
+*.synctex.gz
+*.log
+*.aux
+*.bbl
+*.blg
+*.out
+*.toc
+*.eps
+checksum
